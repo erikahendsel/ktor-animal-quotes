@@ -1,0 +1,1 @@
+rootProject.name = "com.erikahendsel.ktor-animal-quotes"
